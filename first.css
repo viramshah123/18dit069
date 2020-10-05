@@ -68,6 +68,7 @@ li {
   font-size: 28px;
   padding-bottom: 15px;
   margin-bottom: 50px;
+  background-color: brown;
 }
 
 .contents-item {
@@ -91,6 +92,7 @@ li {
 .contact-form {
   padding-top: 100px;
   margin-left: 20px;
+  background-color: grey;
 }
 
 /* Add CSS for <input> and <textarea> tags */
